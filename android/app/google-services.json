@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766765767968",
+    "project_id": "kanshettycode",
+    "storage_bucket": "kanshettycode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766765767968:android:2c873177f0bb026f454b45",
+        "android_client_info": {
+          "package_name": "com.example.kanashetty_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766765767968-f9c4hvce60775ecuj54f681k2a7tl07h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwJUlpZYhUlfIr5JzXd5R4N6eKiNXmxZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766765767968-f9c4hvce60775ecuj54f681k2a7tl07h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
